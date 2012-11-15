@@ -1,0 +1,8 @@
+Last.fm free download scraping tool
+by Chris Williamson, Nov. 2012
+
+Currently only supports recommended artists.
+In the future: support for all free download subcategories.
+
+Script will dump downloads into the same folder as the python script,
+organized into subdirectories by artist.
